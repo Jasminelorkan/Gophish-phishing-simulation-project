@@ -53,6 +53,6 @@ This simulation was conducted entirelyagainst self-owned accounts in a controlle
 sudo gophish
 # OR if downloaded version
 chmod +x gophish && ./gophish
-
+#Admin Panel
 https://127.0.0.1:3333
 
